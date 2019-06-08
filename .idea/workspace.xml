@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1938078a-1c1e-4c8b-9b5c-2352105f5290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/drivers/1chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/selectdemopge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_selectdemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectDropDown.py" beforeDir="false" afterPath="$PROJECT_DIR$/SelectDropDown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/webgeneric.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/webgeneric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/001b83f5-55ec-4cc5-a406-2b4e26fe4355-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DemoTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/00a322b1-4943-42e6-9785-9c3deecc7529-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LocatorDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/033f6b02-6ec8-4479-bd88-838eb943f3fd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0347aae4-cd8b-47af-a35b-29ecd52307d8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/066d41e3-0519-4eba-9b15-78b0da68a707-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/06da5cd6-4dfc-453d-92a0-8b9b1f7ddefc-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/07a1838a-9711-4a12-a184-069be4df90ba-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/096c3d13-42e0-4bb1-ad40-f48efc25d3db-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0afa2187-c991-4f8f-b536-079f26f0868f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0c1faf5a-4dcc-4e98-83f5-4a93f1970b11-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0c22854a-8a60-451a-97d6-2f7bae4258e6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0c5b4993-9ad0-4242-943f-3dbab5ca8fd0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0db69e0f-68d8-47a5-9c2a-853976393873-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0df6668b-f46f-4b02-b2de-f595c726290b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0e2f1307-c291-4d72-a004-9c29788d16ba-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0f2ed516-4962-48ee-ad60-fbc9b27230ee-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/0f4f52f6-5d93-4062-94dc-348b3a7b2c0d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1008ecda-0975-469d-9194-00dea09f03dd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/106a4815-d5c6-4121-b97d-2bb04bf84ac9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1139e61b-7f80-4475-ba5c-001dd9fedd3a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/115e45bf-6b5c-4798-83e7-077873216bd4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/13f4f704-2fc9-42dd-be43-b3b49cc22205-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/154050ea-250c-4086-b51e-e9b00b6b1232-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/16d2f9f4-834f-4c91-8d0b-de314cbf2bdd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/17ef4c05-3846-4bee-ba9d-87b898f6c53c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/184c6792-fb21-4b61-ada5-b3feb3b9c830-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1874d0b3-af99-4e25-9cbe-8bda7d34df79-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/188fc592-15e5-4165-82bc-38a8d0aef968-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1a3e5c69-b190-43c2-ba74-d8357802cd2e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1c6327b5-a3e0-4d27-8fdc-2d774ed755d9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1c6c49ce-2801-4f4e-982e-e4f0b1e64e07-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1e01325d-5185-4d8a-a0e9-c6b137d39419-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1ea6c609-16b7-4203-b0fc-1cef44cbf6ed-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1ef1ca42-d61c-4be8-9434-fc8d1ff3d88a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/1fd05359-8115-4d53-b48e-a60835d59b92-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2232478f-b609-407c-b900-27cf9ad76fd5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/22f851fa-db00-4a41-9ad1-64fb212aa0f8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2360a04f-6970-42ce-82b8-93285caeb214-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/25446a2e-d447-433e-8805-5301508d2af3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/262d892d-1a5b-4be8-a241-5dbc0093a709-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2716d885-90dd-4530-8bfb-57bbde2c37bb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/28ac1fbc-bb4b-4a19-bf52-3607766f9b16-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2a5b071f-1e33-4ea2-be57-88471c1f3831-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2ae68662-d03d-49f1-a6d2-d916b7a3a535-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2beeb660-6489-485a-99f5-624a8fb3cca9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2db36745-6c16-4f90-907a-7865d7033716-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2e0ab98f-1974-4638-82dc-841f3a4d825b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2e342397-2707-4157-8ad4-37bc8a212f56-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2e4c84b1-7699-4110-bfe6-3f1e99ecf226-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2e6ecc90-9544-4ea2-82d5-71bb6a90363f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2f572e2a-7d40-4759-8b8f-3d88f31536dd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/2f6e3ac8-0f9b-49a3-98e6-077d60010f83-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/30524acd-dd94-4339-aaf0-0f8397020764-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/30a44d35-09a7-4c5b-975d-1b28338a04c2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/30f64edf-201f-4fb9-88b9-549b00e41701-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/30fc4031-19ff-4dc8-9d67-e370d72d3a8c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/310e0688-8bc4-45c9-be81-e5df3d6fcc18-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/328abf34-dff4-4b87-a552-b862b37028fe-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/32c9ef0d-b559-4695-aafb-d03241dd906c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3413a963-b914-4d8e-8ca3-d57f6a649ee0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/344dea22-2066-4256-a6e7-aa4951fb910b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/39988b19-d9e5-4d7b-9c75-81721a73d9c5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/39cd0935-0fe2-4e88-80c3-c4c8bfe997f5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3a6a2229-6137-4f18-a467-6d2b663f1fbc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3a6fa46a-d12f-49b3-b719-e81ff1bfe46e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3aa99a6b-b4cb-437b-9a64-4d4608896c21-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3baa2a00-a279-49b3-863f-ec2870b2aa26-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/3d3ab239-401a-4d9a-8138-806e544cc855-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/40de3247-49cd-441b-b41c-ab37159fc88f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4504242e-dcea-47d4-a856-7e3f0285ee51-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/45153fbf-ca2b-4b63-bfe9-e3f594575793-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4558d664-3528-4944-ad22-72f69d00ae09-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/46dbe873-d09f-4ac8-8bdd-14f025028a87-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/48df54e6-07c5-4d4f-b6dc-7722899339b8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/494cd761-4791-42d7-9e2a-92576bd76fd0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4a6da9bd-63a8-4f4f-897f-09c0e0f6c72c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4b62d0e0-cda5-4b99-ad5f-322890b5b0f7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4cafe990-fb3a-4d97-8007-cfc947a248a2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4dd53ce5-6fc5-4415-b207-0604aa5fbb89-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4df983d9-0c5a-4310-8aa6-c9a800313c7b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/4edf6c23-d5fb-4167-8b78-221f01ca5690-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/51944455-790c-4c5d-95ce-11f421d8f4dd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/522be9ed-8efc-4fd5-a3a4-17df46348354-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/55ebe591-6ae1-43dd-adec-6c62473f05f2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5b01415d-a40e-4561-ac41-3f8423be05c0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5bb572e6-ab81-4fde-b711-b970ce14de49-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5ce85c8f-6376-4f86-a9d3-1403920c8141-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5dfd11fc-ccdf-4085-b5e2-23dcd313c570-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5e2c062b-257b-4db9-9e32-e53f9452ca44-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5e70244a-f747-4602-9def-40b36be7a27a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5e725c41-6709-4753-be69-38cd30c7c6b1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/5f8c3eb9-07e1-4e6a-87ad-cff08261050d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/60d25ba8-d225-467a-8264-894965cc554a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/61fd2b15-78fb-4fb2-a2f8-7d51250fe0df-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/624bd792-6975-4a40-8f75-d7ffcd4b1185-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/62862bac-1eb4-4b56-95c7-0e43537db7eb-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/629169bb-4dc7-4eba-97c3-041198d04811-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/64183ce9-ba7a-4688-9199-1b0ea57a7e4a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/6658529d-a306-495e-bbca-7ed2ac34545f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/68718d15-2ac1-44d9-89c4-fa41225ea0e5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/6891f191-7a35-4685-a1c7-6b9c9ac44115-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/690cd295-447a-4541-a61d-f622c4207557-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/6b913fe4-6057-4606-95c5-374b24dd68b8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/6e7b39fb-7413-49b7-915a-6caec870156c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/6f892e97-dd05-42f9-9c31-fb88e30b5323-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/71a09381-96d7-49e3-b5dd-81b17e0ce18e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/71e039bf-d9ef-44eb-9571-a4c2901d1162-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7272c995-bb4e-4782-b025-354bb969d82c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/73375f0d-cfaf-4a44-a755-6629a5041541-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/73c9422f-97df-433e-a9f8-864ff26b3ae7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7486e3eb-0571-494c-96c2-e160f70cc60f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/74bba60d-8416-4d76-94ea-5c8a4aea2952-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7504b32b-a3b7-4720-be63-71029526548b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/75e17da1-1c95-4bd1-b250-c20a59c96d4e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/76f12f8b-be6f-4437-b5cc-79f057dc86c8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/77b10ee3-a2ae-47a4-9d2c-93dbbecc069c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7806bd71-31e2-4a9a-bf55-bb456313f14a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/783ed569-0651-4738-846e-943d77eaa0ca-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/786fec3a-3161-47b7-9dcb-14b2ba5eb347-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/78a938a9-f396-4d61-8d3e-05bb66870a64-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7a11d848-4f35-43df-a8a8-24fa00c41be2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7b36e05e-e40c-4d4e-95fd-43b80b5c0284-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7b8d78d2-0b2e-4100-aa2c-f5eac89d6895-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/7bc2e9db-4da3-4823-b675-bbc714798fa1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/804a8ba7-c77a-455d-879e-74aa2b57efc5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8197dccb-930b-41f8-9ede-d74fe69f02e1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/819a71e6-c64a-4d53-a282-af89e9e30b8f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/84923684-79ba-4998-a77b-b42727a15ca0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/85390c34-00b0-469f-992f-558bee8e361f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/870a2581-e96b-4cf0-a6a1-5d3d68762cbd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/87816dd9-8a3b-4f05-b91f-bc04823cd782-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/87f30f59-0dba-44c9-9e75-2bb186456553-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/88ed644c-5116-400a-98e7-5b29d6660712-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8a1509e7-8fe2-45ce-99e5-1d580846ab51-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8a98313e-ed46-4f55-921b-b45e34ee086b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8c77607b-3d51-4a3e-ab62-67c3aa948381-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8db2f56f-d405-445c-b431-201553c1d5a6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8e58252c-760b-45c5-9e35-9a28bd9f24c4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/8ec0486a-4593-4c09-9849-c442d9645f72-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9004522b-661e-4f85-856e-736ef340521a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/92ad0c99-8a1e-4bb7-86a5-473e26a64824-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9337bf8d-d3fb-4669-ac33-b49c21a341ad-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/93711821-8d43-4cbf-ad73-a0f798cca58d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/95366d6d-e835-407d-9c6e-5c588d0d2575-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/96a16f5b-0fee-461f-8647-ae8055c73fa7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/96e194b5-0af9-4fcc-b162-b6c95a8031d7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/978772f3-44c0-444f-9cd7-0a1a7b708ea8-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/97aeeedb-7a5c-4de1-8961-4882d5c34fea-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/97df1d21-8e76-4d98-bc14-5fba378069d4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/99d25d6a-3cf7-4c56-879f-23229d53f5be-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9e91f0fb-f234-4c31-95f4-794571f5a01b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9ef840e9-b4b5-43d6-9ef2-0e8588f3d67d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/9f3c53f8-bbc7-4e27-b288-913aa031a332-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a000d39a-c5fa-489d-ac5b-91fbc511b485-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a09fe212-789b-4378-b3b9-e44dbc01d20e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a21a2a37-c8d2-475a-a569-49c886c829ee-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a2778938-29f0-4174-b4bd-5cb7cf6ea02b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a2a38d96-73cd-430e-8e5b-2d35404cba3a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a3367db5-8413-465c-91be-4524d1fda010-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a4627110-a39f-4e68-b445-7d451d07d5ed-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a87e0069-9740-4cbf-9481-ae0295080b74-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a8863146-c8f3-4542-9e96-e311229d62ed-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a95e7360-c32c-4fad-a09c-3803b97210b5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/a9825130-bacd-4710-9ded-28573e4bb01b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/adea69d2-a063-46c1-945c-039aa6afa9df-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/af68e081-3b5d-40b8-bca0-28d8d8c69fb7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/afad87fc-a40b-47f5-9b36-bd737310b1a0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b037911c-b8ba-4779-96c3-23c10fe134d1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b0e8d166-66f3-4398-8315-97b457e04dc5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b1a8d884-67dc-4e4a-86a8-7bc94266bb1c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b225bbe1-efb1-49a5-a6d0-6c5dfd842e23-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b2c22c6e-1ca3-435f-92ba-c2ae29f4fa0e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b5734ccc-f7e9-4941-95c9-65d5da7ebbd1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b58c8996-0e4d-4048-808e-387974941cb3-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b5e899e1-13ad-4bc3-8aac-3d49bb7adb6c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b649c4f0-083a-4719-8570-213d53d8af0e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b7983a95-dc37-4b7f-9023-6bb572779912-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b80e577b-96ce-46dd-9e28-fafd9a8fd838-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/b9a378c4-6254-4a19-bf8d-41e4405f80cc-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/bc1b72e5-5017-4e64-8b9d-7c57ff904f7f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/bdf57f3d-46d8-406a-9364-84a2310e944f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/be54c8a1-6954-4e24-9fba-f62e8c5eb941-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/bf0559a9-b208-4e9d-833f-dc485211ff0d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c052772d-1c43-4032-9142-30365b923ab3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c128fb99-eeda-4812-a58c-a6c3b9b45dec-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c1bf40ab-1a19-4442-9166-cb3702d7efa8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c22d115c-427f-436b-a857-45a44549567b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c371b3ca-486e-4c69-bea1-d9516b6f5548-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c3e5ca20-4857-4716-879c-e00d4f4ba264-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c5272169-bd76-4958-a4e9-28a07511a283-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c5f2e9bc-2726-47ad-9849-adc13e958e15-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c994b8ca-2dac-48d0-bb2b-e733e5abb814-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/c9b71367-6da6-4e69-a441-841387dad91a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ca8e72b0-9204-483b-8d81-0b57ee405896-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cbac20d7-7a9a-4759-b69c-db3ea54ad247-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cbdebd16-aeab-46b0-b626-b33cc5ff88f0-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cbe4c319-f196-4c11-aada-93bfa829e91f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cd619450-7b82-4515-9171-d216aa62aeed-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ceda8c66-d8b9-452a-b801-b9263928f670-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/cfbb0f90-8e7f-4d1d-bf96-460747c4eb44-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d1a48725-fbac-42b0-9e38-9bd9776cc568-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d236625b-e9a4-44e0-b103-25e6cd156c22-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d2cd36a3-dcd2-4154-94e2-ff1020660078-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d2e98222-79f1-4cfe-9f3b-d07fe2ccac7e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d35a0c9c-512d-41c2-aed9-a89296156cc7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d371ee4c-37eb-44ce-bbe8-0c989843753e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d3d8ca18-c90f-4833-8762-903ebe74afe4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d468b6bf-b678-4e0d-a49a-9aae82d84011-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d57860ef-c524-42f6-bfdb-b4b8c7b12338-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d6d18488-2988-419f-a1ed-2ceb17cefd91-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d7a02dbd-ee98-4971-b98d-9508ee7155c3-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d7f2d6a8-58d2-4b04-9b95-43487c3bfbaa-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d8354196-ccac-46e0-a64b-2035914e308b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d9b4dcaa-927c-405f-89e7-82f182ee3bcd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/d9bc522a-dd83-4b1f-9504-253f3f4eb3f5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/dd286043-5622-49c9-92ed-df1c7c3a95d6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/dfda8a47-1340-47fc-ba72-88f7f1d6a5aa-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e269e245-9775-4486-b368-893b778aa544-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e2801f2d-7142-4c11-98b6-eb2b302af601-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e46d7c87-7073-432a-b6c6-d6d4acd37e97-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e4a8f94c-4844-4f95-a693-172054ed2b8f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e675860c-b1ca-4873-96e1-92a79c9bfcfd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e75ba325-7693-49f2-9af5-5891c6b82a75-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e853e247-6612-4362-9a85-4dd53c0bc764-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e85ffae0-b1c3-4f93-8ff0-432e8ce62595-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e860bcb1-3830-4ad2-80c2-40802cd415fb-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/e8704d09-2a29-440e-ba9a-2214fc2fbd68-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ea490d3b-cab1-46b3-837f-c77481640ede-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ea4941e3-7e5c-4532-bc07-96f8d7e0a491-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/eaa45a3a-7f03-4584-a70e-69118d78b73b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/eabb6a99-075f-4017-b33a-6cff1bd674f9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/eb57a37c-3b5e-4c77-9fa8-9331dc4fbd3a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ebd1514b-ab41-44ab-b0df-511f745e8817-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ecd5284f-a882-4112-a357-06d530795fec-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/eef8a619-b03e-4037-b61f-c301e7a34c8f-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f2975dee-2bc6-4174-8510-54eaeffe4064-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f34fdffd-e715-47dd-bd19-c5e6d267231b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f4c9aac6-0db1-4e05-b648-b04cb927d726-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f60db2e6-559b-4cc7-b25b-347479df2d00-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f6d16fa1-5a97-46aa-a53f-3ed283eda60f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f76327aa-3e00-401c-afd4-3d3796795242-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f8de0be4-a4d4-4cca-8416-474292871a32-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/f8f4bdd5-b09b-4156-b5c8-dd950a9c9d6d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fa812008-65a9-4f7b-b855-98828441f1a1-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fba0e0a7-d14b-4f57-874f-469357d90406-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fbdcd3b3-11b4-452d-bff1-f23a3afbdae3-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fc350263-4fce-48dd-8c12-aa90c097ddc7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fccae69b-f2b2-4c9e-82cc-b6c0ca9523ef-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fdb05030-3043-4b90-a910-0d6c6b008ed7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fdb635c0-2cda-4987-8c4f-cdb205c1e8f6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/fee581d8-06f1-4955-9d8e-66dceee18424-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/rep.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdata/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_draganddropdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/draganddropdemo.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DemoTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DragAndDropDemo.py" />
+        <option value="$PROJECT_DIR$/pages/locgeneric.py" />
+        <option value="$PROJECT_DIR$/pages/jqueryloginpage.py" />
+        <option value="$PROJECT_DIR$/tests/test_draganddropdemo.py" />
+        <option value="$PROJECT_DIR$/testdata/data.py" />
+        <option value="$PROJECT_DIR$/tests/selectdemo.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/pages/webgeneric.py" />
+        <option value="$PROJECT_DIR$/pages/selectdemopge.py" />
+        <option value="$PROJECT_DIR$/tests/test_selectdemo.py" />
+        <option value="$PROJECT_DIR$/SelectDropDown.py" />
+        <option value="$PROJECT_DIR$/tests/login.py" />
+        <option value="$PROJECT_DIR$/LocatorDemo.py" />
+        <option value="$PROJECT_DIR$/DemoTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1044" />
+    <option name="height" value="640" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Framework_POM_17" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Framework_POM_17" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\Framework_POM_17\pages" />
+      <recent name="C:\Users\Administrator\PycharmProjects\Framework_POM_17\tests" />
+      <recent name="C:\Users\Administrator\PycharmProjects\Framework_POM_17\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.DemoTest">
+    <configuration name="DemoTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Framework_POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DemoTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DragAndDropDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Framework_POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DragAndDropDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LocatorDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Framework_POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LocatorDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectDropDown" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Framework_POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelectDropDown.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_selectdemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Framework_POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_selectdemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DemoTest" />
+        <item itemvalue="Python.LocatorDemo" />
+        <item itemvalue="Python.test_selectdemo" />
+        <item itemvalue="Python.SelectDropDown" />
+        <item itemvalue="Python.DragAndDropDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1938078a-1c1e-4c8b-9b5c-2352105f5290" name="Default Changelist" comment="" />
+      <created>1556969763714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556969763714</updated>
+    </task>
+    <task id="LOCAL-00001" summary="drag drop test added">
+      <created>1556974321654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556974321654</updated>
+    </task>
+    <task id="LOCAL-00002" summary="drag drop test added">
+      <created>1557049420674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557049420674</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.029910268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.048859935" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.06677525" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="drag drop test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="drag drop test added" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/jqueryloginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/draganddropdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectDropDown.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/locgeneric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_selectdemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/selectdemopge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="14" column="14" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/webgeneric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DragAndDropDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LocatorDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
